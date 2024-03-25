@@ -1,0 +1,48 @@
+html{
+    background-color:#1111;
+}
+body{
+    font-family: "Kanit";
+    text-align:center
+      }
+
+.navbar {}
+h1{
+text-align:center;
+color:#ffccd5;
+text-transform: lowercase;
+}
+nav{
+    margin-left:150px;
+    margin-right:150px;
+}
+#me
+{float: middle;
+    /*--margin-left:350px;
+    margin-right:350px;-->
+    margin: 0px 450px 0 450px;*/
+    align:middle;
+}
+
+#sociallist
+{
+    margin-left:350px;
+    margin-right:350px;
+    text-align:center
+}
+#titles{
+size:100px;
+}
+#BAAA{
+    align:center;
+}
+.kanit-thin {
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  #map{
+    margin-left:350px;
+    margin-right:350px;
+    align:center;
+  }
